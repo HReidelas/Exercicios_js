@@ -11,6 +11,6 @@ console.log("O valor da subtração é: " + (b - a)); // 5
 console.log("O valor da multiplicação é: " + (a * b)); // 50
 console.log("O valor da divisão é: " + (b / a)); // 2
 console.log("O valor do módulo é: " + (b % a)); // 0
-console.log("O valor da potência é: " + (a ** 2)); // 25
+console.log("O valor da potência é: " + (a ** b)); // 25
 //console.log("vamos aplicar o parseInt no resultado de uma operação:" )
 //console.log(parseInt(a / b)); // 0
